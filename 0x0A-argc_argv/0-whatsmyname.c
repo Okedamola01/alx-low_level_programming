@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 /**
  * whatsmyname - program that pints its name
